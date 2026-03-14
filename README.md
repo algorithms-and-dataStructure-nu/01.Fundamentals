@@ -8,4 +8,5 @@
 
 ## ファイル
 - [講義資料: Class Materials](01.Fundamentals.ipynb)
+- [クイズ: Quiz](01.Quiz.ipynb)
 - [演習問題: Exercises](01.Exercise.ipynb)
